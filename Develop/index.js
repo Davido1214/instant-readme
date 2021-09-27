@@ -41,7 +41,7 @@ const questions = function(questionData){
         },
         {
             type:'input',
-            name:'Built with',
+            name:'Built',
             message:'What was it built with?'
         },
         {
