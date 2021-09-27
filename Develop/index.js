@@ -87,7 +87,7 @@ const questions = function(questionData){
 questions()
     .then(questionData =>{
         const pageMD = generateMarkdown(questionData)
-        fs.writeFile('./README.md', pageMD, err => {
+        fs.writeFile('../Generated-readme/README.md', pageMD, err => {
             if (err) throw new Error(err);
             console.log('Page created!');
         })

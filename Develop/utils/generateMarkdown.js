@@ -38,7 +38,8 @@ function generateMarkdown(questionData) {
 
   ## Licenses
   ${questionData.Licenses}
-  [![License: GPL v3](https://img.shields.io/badge/License-${questionData.Licenses}.svg)]  
+  [![License:](https://img.shields.io/badge/License-${questionData.Licenses}.svg)]
+
 
   ## Contributors
    ${questionData.Contributors}
@@ -54,6 +55,8 @@ function generateMarkdown(questionData) {
 
   ## Contact
    ${questionData.Email}
+
+   
 `;
 }
 
