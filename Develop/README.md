@@ -1,34 +1,38 @@
 
-  # Title
+  # THis is the title
 
 
   ## Purpose
-   Purposse
+   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]
 
 
   ## Built With-
-  JS
+  js css html node bootstrao
 
 
   ## Installation
-   download
+   you download
 
 
   ## Usage
-   use it
+   you run
 
 
   ## Licenses
-   MIT
+  MIT
+  [![License: GPL v3](https://img.shields.io/badge/License-MIT.svg)]  
 
   ## Contributors
-   contributo
+   none
+
 
   ## Weblink
-   link.co
+   youtube.com
+
 
   ## Github
-   github1214
+   www.github.com/davido1214
 
-  ## Email
-   email@.co
+
+  ## Contact
+   oleadavid1214@gmail.com
