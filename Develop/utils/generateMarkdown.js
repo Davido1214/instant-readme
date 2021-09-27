@@ -19,41 +19,52 @@ function generateMarkdown(questionData) {
   return `
   # ${questionData.title}
 
+  # Table of contents
+  1. [Purpose](#purpose)
+  2. [Built With](#built)
+  3. [Installation](#install)
+  4. [Usage](#usage)
+  5. [Licenses](#license)
+  6. [Contribution](#contribution)
+  7. [Weblink](#weblink)
+  8. [Github](#github)
+  9. [Contact](#contact)
 
-  ## Purpose
+
+
+  ## Purpose <a name="purpose"></a>
    ${questionData.Purpose}
 
 
-  ## Built With-
+  ## Built With- <a name="built"></a>
   ${questionData.Built}
 
 
-  ## Installation
+  ## Installation <a name="install"></a>
    ${questionData.Installation}
 
 
-  ## Usage
+  ## Usage <a name="usage"></a>
    ${questionData.Usage}
 
 
-  ## Licenses
+  ## Licenses <a name="license"></a>
   ${questionData.Licenses}
-  [![License:](https://img.shields.io/badge/License-${questionData.Licenses}.svg)]
 
 
-  ## Contributors
+  ## Contributors <a name="contribution"></a>
    ${questionData.Contributors}
 
 
-  ## Weblink
+  ## Weblink <a name="weblink"></a>
    ${questionData.Weblink}
 
 
-  ## Github
+  ## Github <a name="github"></a>
    www.github.com/${questionData.Github}
 
 
-  ## Contact
+  ## Contact <a name="contact"></a>
    ${questionData.Email}
 
    
